@@ -1,6 +1,6 @@
 # Cancer Detection -  Détection cancer du sein 
 
-Équipe : Vincent Boettcher
+Dépôt git de Vincent Boettcher
 
 ## Description du projet
 
@@ -14,7 +14,6 @@ Cependant, ce consultant n'a pas fait de travail préliminaire d'exploration des
 
 ## 1.  Analyse exploratoire des données  
 
-Pour cette partie, vous êtes libres des choix que vous ferez. Il faut cependant que votre notebook contienne :  
 - Affichage de quelques lignes du dataframe pour montrer sa structure.  
 - Présentation des différentes variables de la base et de leur type.  
 - Statistiques descriptives sur chacune des variables en fonction de leur type.  
@@ -23,8 +22,7 @@ Pour cette partie, vous êtes libres des choix que vous ferez. Il faut cependant
 
 ## 2. Évaluation d'un modèle  
 
-Pour cette partie, vous disposez du code du consultant précédent sur lequel vous pouvez vous appuyer. Votre mission :  
-- Expliquez les étapes du code réalisé :  
+- Expliquez les étapes du code :  
         - En quoi consiste la standardisation des données? Pourquoi est-elle importante ici?   
         - Expliquez à quoi sert le fait de séparer les données en entraînement et en test.  
 - Expliquez simplement comment fonctionne les arbres de décision.
